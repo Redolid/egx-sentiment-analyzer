@@ -1,0 +1,2 @@
+"""EGX sentiment analyzer package."""
+

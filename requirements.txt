@@ -1,0 +1,14 @@
+pandas>=2.2.0
+numpy>=1.26.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+yfinance>=0.2.54
+textblob>=0.18.0
+langdetect>=1.0.9
+matplotlib>=3.8.0
+seaborn>=0.13.0
+scipy>=1.12.0
+jupyter>=1.0.0
+openai>=1.79.0
+# Optional heavier Arabic NLP backend:
+# camel-tools>=1.5.6

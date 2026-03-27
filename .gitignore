@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+EGX_Sentiment_Analyzer_Spec.docx
+data/raw/*.csv
+data/processed/*.csv
+outputs/charts/*.png
+outputs/reports/*.json
+outputs/reports/*.md
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!outputs/charts/.gitkeep
